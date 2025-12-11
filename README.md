@@ -1,4 +1,4 @@
-# samabdulazizova
+
 
 <h1 align="center">Hi 👋, I'm Sama</h1>
 <h3 align="center">Junior Frontend and Mobile Developer</h3>
